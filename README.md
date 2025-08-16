@@ -16,3 +16,4 @@ I have used a Raspberry Pico W to gap the bridge between the old- and the new te
 # THE Technology
 The pushbutton at the door is connected to PIN6 of the RPI, drawing that pin low if it is pressed. The regular doorbell construction is left unchanged, so there is a relay to act as an
 'electronic' pushbutton. 
+The script has some added functionality to ensure the highest level of reliability, even if the WIFI is not avaiable for some time.
