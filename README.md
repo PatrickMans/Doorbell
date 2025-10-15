@@ -10,7 +10,7 @@ I have used a Raspberry Pico W to gap the bridge between the old- and the new te
 * Someone is at the door and wants to enter the house or otherwise grab my attention
 * The person rings the doorbell
 * Along with the ancient method of ringing a bell, to draw the attention of the habitants, a webhook is activated
-* This is creating a message sayingnthat someone is at the door and sends it through to HA.
+* This is creating a message sayinng that someone is at the door and sends it through to HA.
 * HA can display this as a notification in its own gui, or send it through to, for instance, a slack channel.
 
 # THE Technology
